@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://tingpu.net/"/>
+  <link href="http://tingpu.github.io/"/>
   <updated>2018-03-26T07:57:47.586Z</updated>
-  <id>http://tingpu.net/</id>
+  <id>http://tingpu.github.io/</id>
   
   <author>
     <name>tingpu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://tingpu.net/2018/03/26/hello-world/"/>
-    <id>http://tingpu.net/2018/03/26/hello-world/</id>
+    <link href="http://tingpu.github.io/2018/03/26/hello-world/"/>
+    <id>http://tingpu.github.io/2018/03/26/hello-world/</id>
     <published>2018-03-26T07:57:47.586Z</published>
     <updated>2018-03-26T07:57:47.586Z</updated>
     
